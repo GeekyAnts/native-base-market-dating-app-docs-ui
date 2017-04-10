@@ -18,11 +18,11 @@
       },
         "versions": {
 
-            "gitbookConfigURL": "http://rawgit.com/GeekyAnts/native-base-market-dating-app-docs-ui/master/book.json",
+            "gitbookConfigURL": "http://rawgit.com/GeekyAnts/native-base-market-ecommerce-strter-docs-ui/master/book.json",
             "options": [
                 {
-                    "value": "http://docs.market.nativebase.io/react-native-dating-app-ui/",
-                    "text": "v6.0.0"
+                    "value": "http://docs.market.nativebase.io/react-native-ecommerce-strter-app-ui/",
+                    "text": "v7.0.0"
                 }
             ]
         },
